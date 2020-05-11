@@ -1,0 +1,13 @@
+C:\source\codeworks\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.exe
+C:\source\codeworks\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.deps.json
+C:\source\codeworks\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.runtimeconfig.json
+C:\source\codeworks\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.runtimeconfig.dev.json
+C:\source\codeworks\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.dll
+C:\source\codeworks\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.pdb
+C:\source\codeworks\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.csprojAssemblyReference.cache
+C:\source\codeworks\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.csproj.CoreCompileInputs.cache
+C:\source\codeworks\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.AssemblyInfoInputs.cache
+C:\source\codeworks\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.AssemblyInfo.cs
+C:\source\codeworks\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.dll
+C:\source\codeworks\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.pdb
+C:\source\codeworks\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.genruntimeconfig.cache
